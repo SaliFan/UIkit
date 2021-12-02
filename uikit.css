@@ -1,0 +1,52 @@
+.leftside{
+    
+    width: 630px;
+    height: 900px;
+    border-right: 1px solid black;
+    padding-left: 100px;
+    margin-top: 30px;
+
+}
+
+.Title{
+    font-size: 30px;
+
+
+}
+
+.uk-card-footer{
+    background-color: rgb(202, 202, 202);
+
+}
+
+.trash{
+    margin-left: 140px;
+
+}
+
+.uk-card-header{
+    margin-top: 40px;
+    width: 235px;
+
+}
+
+.middleside{
+    position: absolute;
+    top: 0;
+    width: 630px;
+    height: 0px;
+    border-right: 1px solid black;
+    padding-bottom: 900px;
+    padding-left: 800px;
+    margin-top: 30px;
+
+}
+
+.rightside{
+    padding-left: 1500px;
+    position: absolute;
+    top: 0;
+    padding-top: 30px;
+
+
+}
